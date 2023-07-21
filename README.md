@@ -7,15 +7,15 @@
 -------------------------
 Your task is to explore a health related dataset (or multiple) of your choosing, identify any interesting patterns, and create compelling visualisations that effectively communicate the health-related information.
 
-> IMPORTANT: The dataset must be publically availiable and not contain any personally identifiable or other sensitive information!
+> IMPORTANT: The dataset must be publicly available and not contain any personally identifiable or other sensitive information!
 
-In an attempt to encourage creativity, you are free to choose any health dataset(s) that you are interested in. However, we appreicate this can be quite overwhelming. If you are unsure about where to start, the following links may be of interest:
+In an attempt to encourage creativity, you are free to choose any health dataset(s) that you are interested in. However, we appreciate this can be quite overwhelming. If you are unsure about where to start, the following links may be of interest:
 
 * [Nomis - Population Estimates/Projects](https://www.nomisweb.co.uk/sources/pest)
 * [Office for National Statistics - Population Projects](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/2020basedinterimnationalpopulationprojectionsyearendingjune2022estimatedinternationalmigrationvariant)
 * [Office for National Statistics - Health and Social Care](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare)
 
-This challenge welcomes entries from all ability levels. Whether you're a data visaulisation whizz or just starting out, this is a perfect opportunity to experiment. In fact, we encourage trying something new.
+This challenge welcomes entries from all ability levels. Whether you're a data visualisation whizz or just starting out, this is a perfect opportunity to experiment. In fact, we encourage trying something new.
 
 🎨 Visualisation Tasks
 -----------------------
@@ -29,7 +29,7 @@ Participants will be evaluated based on the following criteria:
 
 1. Creativity and Originality: The uniqueness and innovativeness of your health visualisations and storytelling approach.
 2. Clarity and Effectiveness: How well the visualisations communicate the insights and information related to health.
-3. Aesthetic Appeal: The overall design, color schemes, and visual aesthetics of your health representations.
+3. Aesthetic Appeal: The overall design, colour schemes, and visual aesthetics of your health representations.
 4. Accessibility: Consideration of accessibility principles to ensure that the visualisations are inclusive and can be accessed by a wide range of users.
 5. Storytelling: The ability to convey a narrative and engage the audience through the visualisations related to health.
 
@@ -69,7 +69,7 @@ Please send emails to [oliver.roberts@wales.nhs.uk](mailto:oliver.roberts@wales.
 
 We will announce recognised participants and winners on our official Yammer group and other communication channels.
 
-> IMPORTANT: If you have any questions, or need any assitance, please do reach out. We will be more than happy to help!
+> IMPORTANT: If you have any questions, or need any assistance, please do reach out. We will be more than happy to help!
 
 📆 Important Dates
 --------------------
